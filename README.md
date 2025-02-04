@@ -20,6 +20,20 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LqThqC7pjbYpaRGaKtZbbfGbSq8XC2rP/view](https://drive.google.com/file/d/1LqThqC7pjbYpaRGaKtZbbfGbSq8XC2rP/view)
 
 - ⚡ Fun fact **Programmer**
+- # Creds Ambassador  
+
+🎉 **Proud to Be a Creds Ambassador!**  
+
+I am honored to have been appointed as an **Ambassador for Creds**, the #1 community that celebrates the achievements of software engineers, developers, and coders worldwide. 🌟  
+
+## My Goals as a Creds Ambassador  
+- Inspire and motivate individuals in the tech community to celebrate their achievements, no matter how big or small.  
+- Share knowledge, stories, and resources that empower others to grow in their journey.  
+- Build connections with passionate developers, engineers, and tech enthusiasts around the world.  
+
+## About Creds  
+Creds is a vibrant platform dedicated to recognizing and celebrating the milestones of the global tech community. From coding achievements to project launches, it’s a space where every success matters and inspires others to excel.  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
