@@ -51,6 +51,11 @@ Check out [Creds](https://www.creds.dev) to join and showcase your achievements!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hateem-hussain-01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+### 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hateem-Hussain-01&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hateem-hussain-01&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
