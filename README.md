@@ -33,7 +33,7 @@
   <a href="mailto:mhateemjutt1412@gmail.com"><img src="https://img.shields.io/badge/Email-mhateemjutt1412@gmail.com-D4A017?style=for-the-badge&labelColor=0B0F1A&logoColor=FFF8E1&logo=gmail" alt="Email mhateemjutt1412@gmail.com"></a>
 </p>
 
-<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Hateem.">
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Muhammad Hateem Hussain.">
 <img src="assets/about-intro.svg" width="100%" alt="About: Muhammad Hateem Hussain, Co-Founder & COO of CodeBettle. B.Sc. Software Engineering at the University of Agriculture Faisalabad, 2022–2026, CGPA 3.21. Python Trainer at CodeBettle, 1,500+ students across 5 cohorts. Shipped codebettle-web, study-abroad-platform, safesubmit and zero-day-ids. Primary language Python; Django/DRF, React, Next.js; machine learning in TensorFlow and Scikit-Learn.">
 
 <img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
